@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mlclass-ex8-004/mlclass-ex8/estimateGaussian.m",
+			"settings":
+			{
+				"buffer_size": 936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mlclass-ex8-004/mlclass-ex8/selectThreshold.m",
+			"settings":
+			{
+				"buffer_size": 1489,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mlclass-ex8-004/mlclass-ex8/cofiCostFunc.m",
+			"settings":
+			{
+				"buffer_size": 2268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex8/estimateGaussian.m",
+			"settings":
+			{
+				"buffer_size": 935,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex8/selectThreshold.m",
+			"settings":
+			{
+				"buffer_size": 1468,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex8/cofiCostFunc.m",
+			"settings":
+			{
+				"buffer_size": 2268,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/ex7.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/featureNormalize.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/kMeansInitCentroids.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/findClosestCentroids.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/pca.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/projectData.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/recoverData.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/ex7_pca.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex7/computeCentroids.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex7-004/mlclass-ex7/recoverData.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex7-004/mlclass-ex7/projectData.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex7-004/mlclass-ex7/pca.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex7-004/mlclass-ex7/computeCentroids.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex7-004/mlclass-ex7/findClosestCentroids.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex6-004/mlclass-ex6/dataset3Params.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex6/emailFeatures.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex6/processEmail.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex6-004/mlclass-ex6/emailFeatures.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex6-004/mlclass-ex6/processEmail.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex6-004/mlclass-ex6/gaussianKernel.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex5-004/mlclass-ex5/polyFeatures.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex5-004/mlclass-ex5/learningCurve.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex5-004/mlclass-ex5/linearRegCostFunction.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/polyFeatures.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/learningCurve.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/linearRegCostFunction.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex5-004/mlclass-ex5/validationCurve.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/validationCurve.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex4-004/mlclass-ex4/nnCostFunction.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex4/nnCostFunction.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/predictOneVsAll.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/oneVsAll.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex3/displayData.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex4-004/mlclass-ex4/sigmoidGradient.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex4-004/mlclass-ex4/randInitializeWeights.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/predict.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/lrCostFunction.m",
+		"/Users/gmaggess/Developer/cag/oadp/client/components/oraclejet/js/libs/oj/oj-min.js",
+		"/Users/gmaggess/Developer/github/backbonetutorials/examples/modular-backbone/js/main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cvPredictions",
+			"sVec",
+			"CVec",
+			"values",
+			"Inf",
+			"maxError",
+			"word_indices",
+			"sigmavals",
+			"Cvals",
+			"cvals",
+			"Cvals",
+			"epsilon_init",
+			"regvector"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mlclass-ex8-004/mlclass-ex8/estimateGaussian.m",
+					"settings":
+					{
+						"buffer_size": 936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								864,
+								864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mlclass-ex8-004/mlclass-ex8/selectThreshold.m",
+					"settings":
+					{
+						"buffer_size": 1489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mlclass-ex8-004/mlclass-ex8/cofiCostFunc.m",
+					"settings":
+					{
+						"buffer_size": 2268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2162,
+								2162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 154.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex8/estimateGaussian.m",
+					"settings":
+					{
+						"buffer_size": 935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex8/selectThreshold.m",
+					"settings":
+					{
+						"buffer_size": 1468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1224,
+								1224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex8/cofiCostFunc.m",
+					"settings":
+					{
+						"buffer_size": 2268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1928,
+								1928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 154.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}

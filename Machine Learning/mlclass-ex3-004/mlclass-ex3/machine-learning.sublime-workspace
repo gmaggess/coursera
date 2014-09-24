@@ -1,0 +1,172 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/ex3.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex4/checkNNGradients.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/ex5.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex5-004/mlclass-ex5/linearRegCostFunction.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex5-004/mlclass-ex5/learningCurve.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex5-004/mlclass-ex5/polyFeatures.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex5-004/mlclass-ex5/validationCurve.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/validationCurve.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/polyFeatures.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/learningCurve.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex5/linearRegCostFunction.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex4-004/mlclass-ex4/nnCostFunction.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex4/nnCostFunction.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/predictOneVsAll.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/oneVsAll.m",
+		"/Users/gmaggess/Developer/github/ocw-assignments/mlclass-ex3/displayData.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex4-004/mlclass-ex4/sigmoidGradient.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex4-004/mlclass-ex4/randInitializeWeights.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/predict.m",
+		"/Users/gmaggess/Dropbox/courses/Machine Learning/mlclass-ex3-004/mlclass-ex3/lrCostFunction.m",
+		"/Users/gmaggess/Developer/cag/oadp/client/components/oraclejet/js/libs/oj/oj-min.js",
+		"/Users/gmaggess/Developer/github/backbonetutorials/examples/modular-backbone/js/main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"epsilon_init",
+			"regvector"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}
